@@ -80,19 +80,19 @@ function EmergingMarkets() {
                             <div className="container">
                                 <div className="medicineImg p-2 m-20 d-flex" data-aos="fade-left">
                                     <div className="medicineImg p-2 m-20" data-aos="fade-left">
-                                        <img src="https://ajantapharma.com//images/emerging_markets_branded_generics_1.jpg" className="w-75" />
+                                        <img src="https://geology.com/world/the-united-states-of-america-map.gif" className="w-75" />
                                     </div>
                                     <div className="heading-business m-4" data-aos="fade-left">
-                                        Ajanta Pharma is an established player in emerging markets with presence in more than 30 countries spread across Africa, South East Asia, West Asia and CIS.
+                                        VitalityRx Pharma has solidified its position as a key player in emerging markets, operating across over 30 countries spanning Africa, South East Asia, West Asia, and the CIS region.
                                     </div>
                                 </div>
                                 <div className="m-4 text-secondary" data-aos="fade-left">
-                                    Today Ajanta has strong ground presence in all these markets where the brand promotion is done by our own sales team. We have more than 200 brands in these markets and large number of them hold sizeable market share and enjoy leadership positions.
+                                    Currently, Vitality maintains a robust on-the-ground presence across these markets, with brand promotion handled directly by our dedicated sales teams. Our expansive portfolio boasts over 200 brands in these regions, with a significant portion of them commanding substantial market share and holding top positions within their respective categories.
                                 </div>
                             </div>
                             <div className="paratwo p-5 mb-4 d-flex">
                                 <div className="overview-part2 p-1" data-aos="fade-right">
-                                    Ajanta has acquired strong capabilities of identifying gaps in its market place, obtaining the regulatory approvals for new products and then launching them successfully to make them into sizeable brand.  Our sales and marketing capabilities are 2nd to none having laser focused determination on execution.
+                                    Vitality has developed formidable expertise in pinpointing market voids, securing regulatory clearances for new products, and subsequently introducing them with great success, transforming them into significant brands. Our sales and marketing prowess are unmatched, driven by an unwavering commitment to precise execution.
                                 </div>
                                 <div className="medicineImg p-2 m-20" data-aos="fade-left">
                                     <img src="https://ajantapharma.com//images/emerging_markets_branded_generics_2.jpg" className="w-75" />
@@ -100,12 +100,12 @@ function EmergingMarkets() {
                             </div>
                             <div className="p-5 d-flex">
                                 <div className="overview-part2 p-1" data-aos="fade-left">
-                                    In Emerging Markets, we have presence in wide range of therapeutic segments like, Cardiology, Anti-Diabetes, Ophthalmology, Antibiotic, Anti-Malarial, Pain, Respiratory, Gynaecology, Paediatric and General Health products.
+                                    Within Emerging Markets, our footprint extends across a diverse spectrum of therapeutic segments including Cardiology, Anti-Diabetes, Ophthalmology, Antibiotic, Anti-Malarial, Pain Management, Respiratory, Gynaecology, Paediatrics, and General Health products.
                                 </div>
                             </div>
                             <div className="paratwo p-5 mb-4 d-flex">
                                 <div className="overview-part2 p-1" data-aos="fade-right">
-                                    We have robust product pipeline under regulatory approvals in these markets which will further consolidate our leadership positions in sub-therapeutic and therapeutic segments.
+                                    Our robust product pipeline, currently undergoing regulatory approval processes in these markets, is poised to strengthen our dominant positions within both sub-therapeutic and therapeutic segments, further solidifying our leadership status.
                                 </div>
                             </div>
                         </div>
