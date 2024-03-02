@@ -21,8 +21,8 @@ function Home() {
         <div >
           <div className=" g-5 align-items-center slider-img">
             <div className="  wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
-              <div className="">
-                <img className="img-fluid" src="https://media.istockphoto.com/id/1309776504/photo/female-research-scientist-with-bioengineer-working-on-a-personal-computer-with-screen-showing.jpg?s=612x612&w=0&k=20&c=FBI79EWdoWHailbTGvQWBBYOiOfx7owZLWuNnQxuDqo=" />
+              <div className="abouts">
+                <img className="img-fluid" src="https://www.shutterstock.com/shutterstock/photos/623912978/display_1500/stock-photo-a-futuristic-doctor-with-syringe-withdraws-a-liquid-medicine-and-appears-a-hologram-of-a-planet-623912978.jpg" />
               </div>
             </div>
             <div
@@ -70,9 +70,9 @@ function Home() {
 
             </div>
             <div className="wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
-
-              <img className="img-fluid" src="https://media.istockphoto.com/id/1212392754/photo/scientist-works-with-petri-dishes-with-various-bacteria-tissue-and-blood-samples-concept-of.jpg?s=612x612&w=0&k=20&c=CLcKr82Sq-gA0vPIywY5XylI7bTYT1h86Z4Oc5hqwUE=" />
-
+<div className="abouts">
+              <img className="img-fluid" src="https://media.istockphoto.com/id/1221032250/photo/asian-scientist-or-doctors-use-microscopes-to-test-for-the-coronavirus-or-a-new-flu-virus-to.jpg?s=612x612&w=0&k=20&c=nqmrPXZDDKH1o2WyNlmJK7oyd8zvZqgHnWkXg2HS96k=" />
+              </div>
             </div>
           </div>
         </div>
@@ -83,8 +83,8 @@ function Home() {
         <div >
           <div className=" g-5 align-items-center slider-img">
             <div className="  wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
-              <div className="">
-                <img className="img-fluid"  src="https://media.istockphoto.com/id/997784670/photo/pharma-logistician-using-iot-based-on-blockchain.jpg?s=612x612&w=0&k=20&c=mDTYaUEB4laXzb6AQGeHs12liZu-denwznwIgTlIDh8=" />
+              <div className="abouts">
+                <img className="img-fluid"  src="https://media.istockphoto.com/id/1403976499/photo/pharmaceutical-worker-or-technologist-in-protective-equipment-controlling-quality-of-vaccine.jpg?s=612x612&w=0&k=20&c=qEgH2NQ1kpfjls4HXkj4pbsVt6swPWs-v5RaC2PxYGs=" />
               </div>
             </div>
             <div
@@ -131,7 +131,7 @@ function Home() {
             </div>
             <div className="wow fadeIn abouts" data-wow-delay="0.1s" data-aos="fade-right">
 
-              <img className="img-fluid" height={"344px"} width={"612px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVdBgChoX8FO4cd2EFWKcB8FCPKMVjYSr4g&usqp=CAU" />
+              <img className="img-fluid" height={"344px"} width={"612px"} src="https://media.istockphoto.com/id/1087218874/photo/shot-of-sterile-pharmaceutical-manufacturing-laboratory-where-scientists-in-protective.jpg?s=612x612&w=0&k=20&c=mFStTtDFonCqG1G9v5VPiWj5pZpfUNnx9djpQSZqocI=" />
 
             </div>
           </div>
