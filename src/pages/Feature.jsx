@@ -55,11 +55,11 @@ export default function GxpTrainig() {
           <div className="row g-5 align-items-center">
             <div className="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
               <div className="abouts" data-aos="fade-right" >
-                <img className="img-fluid" src="/ebmr2.jpg" />
+                <img className="img-fluid" src="https://media.istockphoto.com/id/158649166/photo/lab-experiment.jpg?s=612x612&w=0&k=20&c=geIx7AFR5lznZ8gl7NyXqJBHfi5bQIX2Cf9fWOj7meY=" />
               </div>
             </div>
             <div className="col-lg-7 wow fadeIn" data-wow-delay="0.5s">
-              <h4 className="mb-4 " data-aos="fade-left">At Mediva, science is embedded in our ethos, as we wholeheartedly embrace Research and Development (R&D) as an essential component of our sustainable business strategy. Over the decades, we have invested strongly and strategically in cutting-edge technological advancements and innovative research activities.</h4>
+              <h4 className="mb-4 " data-aos="fade-left">At Vitai'yrx,Elevating Healthcare with Our Unparalleled R&D</h4>
               {/* <div className="content_container"> */}
                 {/* <ul className="list-group"
                   ref={(ref) => listRefs.current.push(ref)}
@@ -86,7 +86,13 @@ export default function GxpTrainig() {
                   </li>
                 </ul> */}
               {/* </div> */}
-              <div className="containt-data fs-5">Our paramount proficiency resides in our adeptness at excelling in the development of differentiated generic products, bolstered by our specialized teams in formulation development, process chemistry, and analytical development. This prowess significantly contributes to the establishment of a formidable competitive advantage.</div>
+              <div className="containt-data fs-5">Our exceptional R&D team at Vitai'yrx is driven by a 
+              passion for innovation, delivering life-changing advancements to patients worldwide.
+               Leveraging cutting-edge technology and deep scientific expertise, we strive to redefine
+                the future of healthcare. From pioneering new therapies to ensuring their safety and efficacy,
+                 our relentless pursuit of excellence continues to set new benchmarks in the pharmaceutical industry.
+                  Join us on our journey as we elevate healthcare 
+              standards and deliver hope and healing to those who need it most.</div>
             </div>
           </div>
         </div>
@@ -97,11 +103,15 @@ export default function GxpTrainig() {
         <div className="container" style={{background:"#AFEEEE",paddingLeft:"20px", paddingTop:"30px", paddingBottom:"30px", borderLeft:"4px solid green"}}>
           <div className="row align-items-center g-5">
             <div className="col-lg-9  wow fadeIn" data-wow-delay="0.5s" style={{fontSize: "19px", fontWeight: "500"}}>
-            Our team thrives in an environment conducive to excellence and innovation, which is critical to advancing complex and challenging first-time combination products. The R&D team actively engages in projects from concept to Phase IV studies, as well as monitoring market acceptance and post-launch status for comprehensive insights.
+            Vitai'yrx is a leader in pioneering research and development (R&D) for medical breakthroughs. 
+            Our dedicated team of experts work tirelessly to create innovative treatments that improve the
+             lives of patients worldwide. We're committed to pushing the boundaries of science and technology
+              to develop safer, more effective therapies, while ensuring rigorous compliance with regulatory standards. 
+            Join us on our journey to redefine the future of healthcare
             </div>
             <div className="col-lg-3 wow fadeIn" data-wow-delay="0.1s">
             <div className="h-75 w-75 " data-aos="fade-right" >
-                <img className="img-fluid  rounded" src="/ebmr2.jpg" />
+                <img className="img-fluid  rounded" src="https://media.istockphoto.com/id/158649166/photo/lab-experiment.jpg?s=612x612&w=0&k=20&c=geIx7AFR5lznZ8gl7NyXqJBHfi5bQIX2Cf9fWOj7meY=" />
               </div>
             </div>
           </div>
