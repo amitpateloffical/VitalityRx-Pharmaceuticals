@@ -33,10 +33,14 @@ function Home() {
               <div className="home-head rounded-pill  px-3 mb-3">
                 Business Area
               </div>
-              <h1 className="heading-about">Clear Strategy, Consistent Performance</h1>
-              <p className="home-para">"Driven by our passion for advancing medical science and improving patient
-                outcomes, we continuously invest in research and development to
-                bring new and groundbreaking treatments to market"</p>
+              <h1 className="heading-about">Advancing Healthcare Through Pharmaceutical Excellence</h1>
+              <p className="home-para">"Our pharmaceutical business area focuses on the development,
+               manufacturing, and commercialization of innovative medicines and healthcare products
+                that improve the health and well-being of patients worldwide. We believe in delivering
+                 value to our customers, stakeholders, and society as a whole through high-quality,
+                  safe, and effective medicines and therapies. Our commitment to research and development, 
+                  quality, and sustainability
+              drives our continuous innovation and growth in the pharmaceutical industry"</p>
             </div>
           </div>
         </div>
@@ -54,12 +58,15 @@ function Home() {
               <div className="home-head rounded-pill px-3 mb-3">
                 Manufacturing
               </div>
-              <h1 className="heading-about">Providing Quality Products</h1>
-              <p className="home-para">"At Mediva Pharmaceuticals , we believe that quality is the cornerstone of every
-                product we deliver. Our state-of-the-art manufacturing facilities are equipped
-                with cutting-edge technology and adhere to the highest international
-                standards to ensure the safety, purity,
-                and effectiveness of our pharmaceutical products.."</p>
+              <h1 className="heading-about">Innovative Pharmaceutical Manufacturing</h1>
+              <p className="home-para">"At Vitai'yrx, we are committed to excellence in pharmaceutical
+               manufacturing. Our state-of-the-art facilities are equipped with advanced technologies
+                and adhere to stringent quality control standards to ensure the safety, efficacy, 
+                and reliability of our products. We employ highly skilled professionals who are dedicated to 
+                maintaining the highest level of quality and compliance throughout the manufacturing process.
+                 Our commitment to innovation, sustainability, and continuous improvement drives our pursuit of 
+                 excellence in pharmaceutical manufacturing,
+               enabling us to meet the evolving needs of patients and healthcare providers worldwide"</p>
 
             </div>
             <div className="wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
@@ -88,12 +95,14 @@ function Home() {
               <div className="home-head rounded-pill  px-3 mb-3">
                 Research & Development
               </div>
-              <h1 className="heading-about">The Innovation Edge</h1>
-              <p className="home-para">" we are committed to advancing the boundaries of medical science
-                and improving healthcare outcomes through innovative research and development.
-                Our state-of-the-art laboratories and dedicated team of scientists and researchers
-                work tirelessly to discover and develop
-                groundbreaking medicines that address unmet medical needs."</p>
+              <h1 className="heading-about">Cutting-Edge Research and Development (R&D) for Lifesaving Solutions</h1>
+              <p className="home-para">"we are passionate about improving human health through groundbreaking research and 
+              development (R&D). Our R&D teams consist of world-class scientists and medical experts who are dedicated to
+               discovering and developing innovative medicines and therapies that address unmet medical needs. Our focus
+                on collaboration, cutting-edge technologies, and robust scientific methodologies enables us to accelerate
+                 the development of potential lifesaving solutions. With a deep commitment to excellence and a relentless
+                  pursuit of scientific discovery, we are working tirelessly to advance
+               healthcare and enhance the quality of life for patients around the globe."</p>
 
             </div>
           </div>
@@ -112,15 +121,12 @@ function Home() {
               <div className="home-head rounded-pill px-3 mb-3">
                 About Us
               </div>
-              <h1 className="heading-about">Clear Strategy, Consistent Performance</h1>
-              <p className="home-para"> "Welcome to Mediva Pharmaceuticals, where our mission is to revolutionize healthcare through innovative,
-                life-changing medicines. As a global leader in pharmaceuticals,
-                we specialize in developing cutting-edge treatments for a wide range of medical conditions.
-                Our commitment to excellence drives us to consistently deliver safe, effective,
-                and affordable solutions that improve patient outcomes and enhance quality of life.
-                Backed by a team of dedicated scientists, researchers, and healthcare professionals,
-                we strive to make a meaningful impact on the world by pushing the boundaries
-                of medical science and improving access to healthcare for all."</p>
+              <h1 className="heading-about"> Empowering Health with Excellence</h1>
+              <p className="home-para"> "VITAI'YRX is driven by a deep commitment to your well-being.
+               We relentlessly pursue innovation to develop and deliver life-enhancing medicines and therapies.
+                Our promise is to bring you quality, safe, and effective healthcare solutions, backed by scientific
+                 rigor and ethical integrity.
+               Join us as we strive to create a healthier, happier world for all."</p>
 
             </div>
             <div className="wow fadeIn abouts" data-wow-delay="0.1s" data-aos="fade-right">
