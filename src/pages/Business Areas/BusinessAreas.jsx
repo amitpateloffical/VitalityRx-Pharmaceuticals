@@ -82,12 +82,12 @@ function BusinessAreas() {
                         <div className="col-md-9">
                             <div className="container">
                                 <div className="heading-business m-4" data-aos="fade-left">
-                                    We provide comprehensive range of specialty branded generic products targeting broad spectrum of chronic and acute therapies. We clearly understand our customers’ needs and use cutting-edge technology to present innovative solutions.
+                                    We offer an extensive array of specialty branded generic products addressing a wide range of chronic and acute therapies. With a clear understanding of our customers' requirements, we leverage state-of-the-art technology to deliver inventive solutions.
                                 </div>
                             </div>
                             <div className="paratwo p-5 mb-4">
                                 <div className="overview-part2 p-1" data-aos="fade-left">
-                                    We carefully identify gaps in our markets and commit ourselves to get the products to market places ahead of the competition giving huge competitive advantage of 1st to market. Our products have the hallmark of technology-based differentiation and cover the full range of dosage forms, including tablets, capsules, injectables, inhalers, ointments, creams and liquids.
+                                    We meticulously pinpoint market voids and dedicate ourselves to bringing products to market ahead of competitors, providing a significant first-mover advantage. Our products are distinguished by technological innovation and encompass a diverse range of dosage forms, such as tablets, capsules, injectables, inhalers, ointments, creams, and liquids.
                                 </div>
                             </div>
                         </div>
