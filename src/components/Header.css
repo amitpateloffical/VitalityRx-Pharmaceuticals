@@ -36,11 +36,12 @@
 }
 
 .logo123{
+  margin-top: 40px;
   font-size: 22px;
   font-weight: 700;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-style: italic;
-  color: black;
+  color: rgb(42, 6, 134);
 }
 
 .heading-about{
@@ -57,3 +58,6 @@
 .a-index{
   z-index: 1000;
 }
+
+
+  

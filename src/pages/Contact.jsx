@@ -47,7 +47,7 @@ function Contact() {
                     <div className="row g-5 align-items-center d-flex">
                         <div className="col-lg-5 wow fadeIn" data-wow-delay="0.2s">
                             <div className="abouts" data-aos="fade-right">
-                                <img className="img-fluid" src="/phone.jpeg" />
+                                <img className="img-fluid" src="https://img.freepik.com/free-vector/pharmaceutical-production-isometric-multistore-composition-with-research-development-production-medicines-quality-control-packing-finished-product-descriptions-illustration_1284-28896.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
                             </div>
                         </div>
                         <div className="container-fluid py-5 col-lg-7">

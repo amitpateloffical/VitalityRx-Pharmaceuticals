@@ -91,7 +91,7 @@ margin-left: 50%;
   padding: 0;
   outline: none;
   display: flex;
-  margin-right: 35px;
+  margin-right: 20px;
   align-items: center;
   color: black;
   font-weight: 500;
@@ -218,7 +218,8 @@ margin-left: 50%;
 }
 
 .service-item:hover {
-  background: var(--themeColor);
+  /* background: var(--themeColor); */
+  background: rgb(212, 221, 221);
 }
 
 .service-item .service-icon {
@@ -242,7 +243,7 @@ margin-left: 50%;
 
 .service-item:hover h5,
 .service-item:hover p {
-  color: #ffffff;
+  color: #4e4646;
 }
 
 .service-item a.btn {
@@ -385,8 +386,7 @@ margin-left: 50%;
 }
 
 /*** Testimonials ***/
-.testimonial-item {
-}
+
 
 /*** Footer ***/
 .footer {
@@ -583,9 +583,7 @@ margin-left: 50%;
   height: 490px;
  
 }
-.section2 {
-  /* background: linear-gradient(#80ffdb, #5390d9); */
-}
+
 #contact-form-border {
   border-bottom: 2px solid;
 }
@@ -641,22 +639,22 @@ margin-left: 50%;
 padding-left: 80px;
 
 }
-#header {
 
+#header {
   width: 100%;
   border-bottom: 4px solid black;
   height: 180px;
   overflow: hidden;
-  background-image: url('https://www.ajantapharma.com/assets/frontend/images/inner_banner/manufacturing.jpg');
+  background-image: url('https://img.freepik.com/free-photo/aluminum-tanks-storage-raw-materials-chemical-industry-sterile-conditions-enterprise_645730-711.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph');
   background-repeat: no-repeat;
   background-size: cover;
 
 }
 
 #header-h1 {
-  color: #252c69;
+  color: #000105;
     margin-top: 65px;
-  margin-left: 150px;
+  margin-left: 100px;
   font-size: 2.5rem;
   padding-bottom: 5px; 
   background-image: linear-gradient(to right, #ffb44f 50%, transparent 50%);
@@ -664,3 +662,88 @@ padding-left: 80px;
   background-position: 0 100%; 
   background-repeat: no-repeat; 
 }
+
+.home-heading{
+  color: coral;
+}
+
+.home-subHeading{
+font-size: 26px;
+color: #252c69;
+}
+
+.RD-img{
+  width: 100%;
+  border-bottom: 4px solid black;
+  height: 180px;
+  overflow: hidden;
+  background-image: url('https://image.shutterstock.com/image-photo/scientists-experimenting-genetic-research-biotech-260nw-2258124451.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.RD-img1{
+ 
+  margin-top: 65px;
+margin-left: 80px;
+font-size: 2.5rem;
+padding-bottom: 5px; 
+background-image: linear-gradient(to right, #ffb44f 50%, transparent 50%);
+background-size: 19% 3px; 
+background-position: 0 100%; 
+background-repeat: no-repeat; 
+}
+
+.manufacturingbackground-img{
+  width: 100%;
+  border-bottom: 4px solid black;
+  height: 180px;
+  overflow: hidden;
+  background-image: url('https://img.freepik.com/free-photo/pharmaceutical-technicians-work-sterile-working-conditions-pharmaceutical-factory-scientists-wearing-protective-clothing_645730-197.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.businessbackground-img{
+  width: 100%;
+  border-bottom: 4px solid black;
+  height: 180px;
+  overflow: hidden;
+ background-image: url('https://img.freepik.com/premium-photo/healthcare-medical-doctor-working-with-professional-team-physician-nursing-assistant_34200-767.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph');
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.about-h3{
+  color:#089bba;
+}
+
+.about-h5{
+  color: #5cc5da;
+}
+
+.Manu-h1{
+  color:#089bba;
+  font-size: 28px;
+}
+
+.about-b{
+  color: midnightblue;
+}
+
+@media (min-width: 768px) {
+  .footer-menu {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .footer-menu a {
+    margin-right: 15px;
+  }
+}
+
+
+/* Header.css */
+
+/* Default styles for the Header component */
+
