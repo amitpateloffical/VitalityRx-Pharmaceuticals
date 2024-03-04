@@ -1,3 +1,4 @@
+
 import { Link } from 'react-router-dom';
 import './BusinessAreas.css';
 import { useEffect, useRef, } from "react";
@@ -73,3 +74,5 @@ function BusinessAreas() {
 }
 
 export default BusinessAreas;
+
+

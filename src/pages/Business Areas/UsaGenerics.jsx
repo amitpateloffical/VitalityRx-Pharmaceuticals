@@ -75,10 +75,10 @@ function UsaGenerics() {
                         <div className="col-md-9">
                             <div className="container">
                                 <div className="heading-business m-4" data-aos="fade-left">
-                                    Ajanta Pharma has established itself as a meaningful niche player in the US generics market.
+                                VitalityRx Pharma has established itself as a meaningful niche player in the US generics market.
                                 </div>
                                 <div className="m-4 text-secondary" data-aos="fade-left">
-                                    Our strategy is to have a selective play in this market with launching limited competition products. Currently we have 54 ANDA approvals (includes 2 tentative), out of which 44 are commercialized. Ajanta is awaiting US FDA approval for 22 ANDAs. We plan to file 6-8 ANDAs every year. All the products are marketed through our subsidiary Ajanta Pharma USA Inc. For more details on this subsidiary, please click here.
+                                    Our strategy is to have a selective play in this market with launching limited competition products. Currently we have 54 ANDA approvals (includes 2 tentative), out of which 44 are commercialized. VitalityRx is awaiting US FDA approval for 22 ANDAs. We plan to file 6-8 ANDAs every year. All the products are marketed through our subsidiary VitalityRx Pharma USA Inc. For more details on this subsidiary, please click here.
                                 </div>
                             </div>
                             <div className="paratwo p-5 mb-4">
