@@ -212,8 +212,6 @@ function About() {
                 </h5>
               </div>
             </div>
-
-
     </>
   );
 }
