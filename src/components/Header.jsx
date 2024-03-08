@@ -189,29 +189,104 @@ import { Link, NavLink, } from "react-router-dom";
 
 
 function Header(){
+  const [isShowToggle,setIsShowToogle]=useState()
+
+  useEffect(() => {
+        const handleResize = () => {
+          // Update font size based on viewport width
+          if (window.innerWidth <= 700) {
+            setIsShowToogle(600)
+          } else {
+            setIsShowToogle(800)
+          }
+        };
+    
+        // Call handleResize when the window is resized
+        window.addEventListener('resize', handleResize);
+    
+        // Initial call to set font size
+        handleResize();
+    
+        // Cleanup event listener
+        return () => {
+          window.removeEventListener('resize', handleResize);
+        };
+      }, []);
   return(
-  <div className="header12">
-    <div className="d-flex   ">
-    <img
-               className="me-3 header-logo"
-               src="vitailogo1.png"
-               alt="Life Link Digital"
-            />
-    <p className="logo123">VITAI'YRX Pharmaceuticals</p>
-    </div>
-    <div className="  d-flex  ">
-      <a href="/" className="header-a">Home</a>
-      <a href="" className="header-a">Business Area</a>
-      <a href="" className="header-a">Manufacturing</a>
-      <a href="" className="header-a">R & D</a>
-      <a href="" className="header-a">About Us</a>
-      <a href="" className="header-a ">Contact Us</a>
+//   <div className="header12">
+//     <div className="d-flex   ">
+//     <img
+//                className="me-3 header-logo"
+//                src="vitailogo1.png"
+//                alt="Life Link Digital"
+//             />
+//     <p className="logo123">VITAI'YRX Pharmaceuticals</p>
+//     </div>
+//     <div className="  d-flex  ">
+    
+//       {isShowToggle<=700?<div className="dropdown">
+//   <button className="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+//     Dropdown
+//   </button>
+//   <ul className="dropdown-menu">
+//     <li><button className="dropdown-item" type="button">Action</button></li>
+//     <li><button className="dropdown-item" type="button">Another action</button></li>
+//     <li><button className="dropdown-item" type="button">Something else here</button></li>
+//   </ul>
+// </div>:
+// <>  <a href="/" className="header-a">Home</a>
+//       <a href="/businessareas" className="header-a">Business Area</a>
+//       <a href="/manufacturing" className="header-a">Manufacturing</a>
+//       <a href="/features" className="header-a">R & D</a>
+//       <a href="/about" className="header-a">About Us</a>
+//       <a href="/contact" className="header-a ">Contact Us</a></>}
+//     </div>
+//   </div>
+
+<div className="p-2">
+<nav class="navbar navbar-expand-lg bg-body-tertiary ">
+  <div class="container-fluid">
+  <div className="d-flex   ">
+     <img
+                className="me-3 header-logo"
+                src="vitailogo1.png"
+                alt="Life Link Digital"
+             />
+     <p className="logo123">VITAI'YRX Pharmaceuticals</p>
+     </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse navToggle " id="navbarTogglerDemo02">
+      <div className="navToggle">
+           <div className="collapse navbar-collapse navToggle " id="navbarCollapse">
+             <div className="navbar-nav">
+      <NavLink to="/" className="nav-item nav-link ">
+                Home
+              </NavLink>
+              <NavLink to="/businessareas" className="nav-item nav-link">
+                Business Area
+              </NavLink>
+              <NavLink to="/manufacturing" className="nav-item nav-link">
+                Manufacturing
+              </NavLink>
+              <NavLink to="/features" className="nav-item nav-link">
+                R & D
+              </NavLink>
+              <NavLink to="/about" className="nav-item nav-link">
+                About Us
+              </NavLink>
+              <NavLink to="/contact" className="nav-item nav-link">
+                Contact us
+               </NavLink>
+               </div>
+               </div>
+               </div>
     </div>
   </div>
-
+</nav>
+</div>
   )
-  
-  
 }
 
  export default Header;
