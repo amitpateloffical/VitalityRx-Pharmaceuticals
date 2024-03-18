@@ -265,19 +265,19 @@ function Header(){
                 Home
               </NavLink>
               <NavLink to="/businessareas" className="nav-item nav-link">
-                Business Area
+              Territory
               </NavLink>
               <NavLink to="/manufacturing" className="nav-item nav-link">
-                Manufacturing
+              Industrialization
               </NavLink>
               <NavLink to="/features" className="nav-item nav-link">
-                R & D
+              Technological Research
               </NavLink>
               <NavLink to="/about" className="nav-item nav-link">
                 About Us
               </NavLink>
               <NavLink to="/contact" className="nav-item nav-link">
-                Contact us
+              Talk to Us
                </NavLink>
                </div>
                </div>

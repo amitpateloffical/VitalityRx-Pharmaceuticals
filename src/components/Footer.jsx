@@ -15,7 +15,14 @@ function Footer() {
     <>
       {/* <!-- Footer Start --> */}
       <div className="container-fluid bg-dark text-white-50 footer ">
-    
+    <div className="row p-3"> 
+    <div className="col-md-9">
+      Address :  2 GHJ+3F Kruger National Park, Sabie Park, 1260, South Africa
+    </div>
+<div className="col-md-3">
+  <a href="">info@VitalityRX-pharma.in</a>
+</div>
+    </div>
         <div className="container wow fadeIn" data-wow-delay="0.1s">
           <div className="copyright">
             <div className="row py-3">
